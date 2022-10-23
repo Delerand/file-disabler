@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="file-disabler-installer">
+    <output-path>$PROJECT_DIR$/out/artifacts/file_disabler_installer</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.delerand.filedisablerinstaller.InstallerApplication" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="Delerand" />
+        <option name="version" value="0.1" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="file_disabler_installer.jar">
+        <element id="module-output" name="file-disabler-installer" />
+      </element>
+    </root>
+  </artifact>
+</component>

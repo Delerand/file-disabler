@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Disable/Enable]
+"MUIVerb"="Disable / Enable"
+"Icon"="explorer.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\Disable/Enable\command]
+@="C:\\Users\\naliv\\Documents\\JavaProjects\\file-disabler-installer\\out\\artifacts\\file-disabler.exe\"%1\""
